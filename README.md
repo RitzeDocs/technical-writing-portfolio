@@ -4,15 +4,19 @@ This repository contains a collection of technical writing samples created to de
 
 ## Skills Demonstrated
 
-* Information architecture
-* Markdown
-* Document organization
-* Procedural writing
-* Onboarding documentation
-* User-focused technical communication
+- Information architecture
+- Markdown
+- Document organization
+- Procedural writing
+- Onboarding documentation
+- User-focused technical communication
 
 ## Documentation Samples
 
-➡️ Onboarding Guide Example: [Project Onboarding Guide](onboarding-guide.md)
+➡️ **Onboarding Guide:** [CareBridge Team Onboarding Guide](onboarding-guide.md)
 
-_(An internal onboarding guide for a fictional healthcare software team, including setup instructions, workflow documentation, and an annotated software interface.)_
+_An internal onboarding guide for a fictional healthcare software team, including setup instructions, workflow documentation, and an annotated software interface._
+
+➡️ **Troubleshooting Guide:** [CareBridge Connect Troubleshooting Guide](troubleshooting-guide.md)
+
+_A troubleshooting guide demonstrating symptom identification, resolution steps, escalation paths, and security-conscious support documentation._
