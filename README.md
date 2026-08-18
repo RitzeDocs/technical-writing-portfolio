@@ -14,4 +14,5 @@ This repository contains a collection of technical writing samples created to de
 ## Documentation Samples
 
 ➡️ Onboarding Guide Example: [Project Onboarding Guide](onboarding-guide.md)
-(An internal onboarding guide for a fictional healthcare software team, including setup instructions, workflow documentation, and an annotated software interface.)
+
+_(An internal onboarding guide for a fictional healthcare software team, including setup instructions, workflow documentation, and an annotated software interface.)_
