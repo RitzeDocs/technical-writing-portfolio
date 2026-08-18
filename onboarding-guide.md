@@ -33,7 +33,7 @@ The current product version is **v1.05.31**.
 
 ### Development Platform
 
-CareBridge Connect is developed and maintained using **CRxeate**, the team's primary software development platform.
+CareBridge Connect is developed and maintained using **CRxeate**, the team's primary browser-based software development platform.
 
 During onboarding, new team members use a training environment containing mock patient data.
 
@@ -81,8 +81,8 @@ Confirm access to the following systems before beginning project work:
 | Confluence | Internal documentation and project information |
 | Jira | Task assignments, bugs, feature requests, and project tracking |
 | Miro | Collaborative diagrams, workflows, and planning |
-| Company VPN | Secure access to internal systems |
-| CRxeate | Development and configuration of CareBridge Connect |
+| CompanyVPN | Secure access to internal systems |
+| CRxeate | Browser-based development and configuration of CareBridge Connect |
 | Company SSO/MFA | Secure authentication for company systems |
 | Password Manager | Approved credential storage |
 
@@ -99,7 +99,7 @@ Complete the following steps during onboarding:
 - [ ] Confirm access to Confluence.
 - [ ] Confirm access to Jira.
 - [ ] Confirm access to Miro.
-- [ ] Configure and test the company VPN.
+- [ ] Configure and test CompanyVPN.
 - [ ] Complete SSO and multi-factor authentication setup.
 - [ ] Sign in to CRxeate.
 - [ ] Review this onboarding guide.
@@ -111,16 +111,16 @@ Complete the following steps during onboarding:
 
 ## 5. Using CRxeate
 
-CRxeate is the primary development platform used to maintain CareBridge Connect.
+CRxeate is the primary browser-based development platform used to maintain CareBridge Connect.
 
 ### Access CRxeate
 
-1. Connect to the **company VPN**.
-2. Open **CRxeate**.
-3. Select **Sign in with Company Account**.
-4. Complete multi-factor authentication if prompted.
-5. Select the **CareBridge Connect** workspace.
-6. Confirm that **Training** is selected in the Environment menu.
+1. Connect to **CompanyVPN**.
+2. Open **CRxeate** in your browser.
+3. Select the required CareBridge Connect environment.
+4. Confirm that you are in the correct project area.
+5. Complete the assigned change.
+6. Record relevant implementation details in Jira.
 
 > **Important:** Use the Training environment during onboarding unless your manager instructs you otherwise.
 
@@ -214,7 +214,7 @@ Use the appropriate tools to complete the assigned task.
 
 For CRxeate-related work:
 
-1. Connect to the company VPN.
+1. Connect to **CompanyVPN**.
 2. Open the required CareBridge Connect environment.
 3. Confirm that you are in the correct project area.
 4. Complete the assigned change.
@@ -284,7 +284,7 @@ Avoid keeping important project decisions only in private messages. Record decis
 Before the end of your first day:
 
 - [ ] Confirm access to all required tools.
-- [ ] Configure the company VPN and MFA.
+- [ ] Configure CompanyVPN and MFA.
 - [ ] Join required Microsoft Teams channels.
 - [ ] Review the CareBridge Connect project overview.
 - [ ] Locate the team Confluence space.
@@ -305,7 +305,7 @@ Start by checking:
 
 If you still cannot find the information you need, contact the appropriate subject matter expert listed in [Where to Find Information](#6-where-to-find-information).
 
-For account, VPN, or access problems, contact **IT Support**.
+For account, CompanyVPN, or access problems, contact **IT Support**.
 
 ## Document Information
 
