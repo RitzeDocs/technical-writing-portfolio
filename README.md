@@ -1,11 +1,17 @@
-# Project Onboarding Guide
+# Technical Writing Portfolio
 
-This repository contains a sample onboarding guide created to demonstrate technical writing skills.
+This repository contains a collection of technical writing samples created to demonstrate clear, organized, and user-focused documentation across different formats.
 
-**Skills demonstrated**
-- Information architecture
-- Markdown
-- Document organization
-- Onboarding documentation
+## Skills Demonstrated
 
-➡️ Read the guide: [Project Onboarding Guide](onboarding-guide.md)
+* Information architecture
+* Markdown
+* Document organization
+* Procedural writing
+* Onboarding documentation
+* User-focused technical communication
+
+## Documentation Samples
+
+➡️ Onboarding Guide Example: [Project Onboarding Guide](onboarding-guide.md)
+(An internal onboarding guide for a fictional healthcare software team, including setup instructions, workflow documentation, and an annotated software interface.)
