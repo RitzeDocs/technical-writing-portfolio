@@ -1,6 +1,10 @@
 # Technical Writing Portfolio
 
-This repository contains a collection of technical writing samples created to demonstrate clear, organized, and user-focused documentation across different formats.
+I'm a QA professional transitioning into technical writing after more than nine years working with software teams, including five years at Bungie.
+
+My background includes creating and maintaining internal documentation, interpreting technical requirements, documenting workflows, organizing project information, supporting onboarding, and communicating complex software behavior clearly to different audiences.
+
+This portfolio includes samples demonstrating procedural writing, troubleshooting, information architecture, Markdown, and user-focused technical communication.
 
 ## Skills Demonstrated
 
