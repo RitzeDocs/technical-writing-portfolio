@@ -1,4 +1,3 @@
-# CareBridge Connect Troubleshooting Guide
 
 > **Portfolio Sample:** This fictional technical documentation sample demonstrates troubleshooting and user-support documentation for a healthcare software product. All company names, products, people, and workflows are fictional.
 
@@ -171,4 +170,3 @@ When reporting a technical issue, provide:
 | **Product Version** | v1.06.00 |
 | **Last Updated** | September 2026 |
 | **Review Cycle** | Each major product release |
-```
