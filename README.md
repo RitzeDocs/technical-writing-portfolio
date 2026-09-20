@@ -4,7 +4,7 @@ I'm a QA professional transitioning into technical writing after more than nine 
 
 My background includes creating and maintaining internal documentation, interpreting technical requirements, documenting workflows, organizing project information, supporting onboarding, and communicating complex software behavior clearly to different audiences.
 
-This portfolio includes samples demonstrating procedural writing, troubleshooting, information architecture, Markdown, and user-focused technical communication.
+This portfolio includes samples demonstrating procedural writing, troubleshooting, information architecture, process documentation, Markdown, and user-focused technical communication.
 
 ## Skills Demonstrated
 
@@ -12,15 +12,17 @@ This portfolio includes samples demonstrating procedural writing, troubleshootin
 - Markdown
 - Document organization
 - Procedural writing
+- Process documentation
 - Onboarding documentation
+- Troubleshooting documentation
+- Support and escalation guidance
 - User-focused technical communication
 
 ## Documentation Samples
 
-➡️ **Onboarding Guide:** [CareBridge Team Onboarding Guide](onboarding-guide.md)
+| Sample | Type | Demonstrates |
+| --- | --- | --- |
+| [CareBridge Team Onboarding Guide](onboarding-guide.md) | Internal documentation | Onboarding, workflow documentation, information architecture, tool access, checklists, and process guidance |
+| [CareBridge Connect Troubleshooting Guide](troubleshooting-guide.md) | Troubleshooting and support documentation | Symptom identification, resolution steps, escalation paths, environment checks, and security-conscious support writing |
 
-_An internal onboarding guide for a fictional healthcare software team, including setup instructions, workflow documentation, and an annotated software interface._
-
-➡️ **Troubleshooting Guide:** [CareBridge Connect Troubleshooting Guide](troubleshooting-guide.md)
-
-_A troubleshooting guide demonstrating symptom identification, resolution steps, escalation paths, and security-conscious support documentation._
+> **Note:** The CareBridge examples in this portfolio are fictional and were created specifically to demonstrate technical writing skills.
