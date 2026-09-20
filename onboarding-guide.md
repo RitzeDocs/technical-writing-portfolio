@@ -2,8 +2,9 @@
 
 > **Portfolio Sample:** This fictional internal documentation sample demonstrates onboarding content for a healthcare software team. All company names, products, people, and workflows are fictional.
 
-**Current Product Version:** v1.05.31  
-**Next Release Target:** August 31, 2026
+**Current Product Version:** v1.06.00  
+**Last Updated:** September 2026  
+**Document Owner:** Technical Documentation Team
 
 ## Welcome
 
